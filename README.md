@@ -14,7 +14,7 @@ The App has a very simple and interactive interface which helps the students sel
 •	RecyclerView : To present the list of different streams and branches along with years we used the efficient recyclerview.
 •	Room Database: To store the notes and related study material.
 
-![WhatsApp Image 2022-01-10 at 1 43 47 PM](https://user-images.githubusercontent.com/71805732/148735341-4161c897-5c27-4505-83e2-05505f695d76.jpeg)
+![Untitled design (6)](https://user-images.githubusercontent.com/71805732/148736011-bc397425-b4a0-4f77-96cb-31a84dbb02e8.png)
 
 
 # Application Link & Future Scope :
