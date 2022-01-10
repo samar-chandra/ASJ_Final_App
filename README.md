@@ -1,6 +1,6 @@
-# ASJ_Final_App NotesMiner
+# ASJ_Final_App
 
-# NotesMiner : Your Digital Study Partner
+NotesMiner : Your Digital Study Partner
 
 # Problem Statement: 
 During the pandemic era, many aspects of our lives changed, but that which was most affected was the education system. From the classroom to google meets, the mode of tutoring evolved. It has become increasingly difficult to take down notes and clear the doubts in the class itself. There is no repository for handwritten personalized notes, which are the main source of preparation for school and university-level examinations.
